@@ -1,0 +1,1 @@
+This project is a simple Phishing Email Detection system developed using Python. It scans email content for common phishing keywords and analyzes the text to determine whether an email is potentially malicious or safe. The project helps users identify suspicious emails and improve awareness of phishing attacks.
